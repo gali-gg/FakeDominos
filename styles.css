@@ -303,6 +303,10 @@ header {
     border-right: 1px solid lightgrey;
 }
 
+.only-one-delivery-option {
+    border: none !important;
+}
+
 td>div {
     display: flex;
     align-items: center;
